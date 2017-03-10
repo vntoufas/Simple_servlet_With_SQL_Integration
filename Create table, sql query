@@ -1,0 +1,7 @@
+CREATE TABLE student(
+am INT NOT NULL AUTO_INCREMENT,
+firstname VARCHAR(30) ,
+lastname varchar(30) ,
+Age int, 
+  PRIMARY KEY (AM)
+) 
